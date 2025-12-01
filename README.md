@@ -1,6 +1,5 @@
 # Task Manager
 
-A simple MERN-based Task Manager built as part of a company selection assignment.
 This project includes a **Node.js + Express + MongoDB backend** and a **React frontend**.
 
 The goal of the app is straightforward: create, update, delete, and list tasks.
